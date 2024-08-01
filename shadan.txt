@@ -1,0 +1,3 @@
+hi this is shadan 
+i am new and
+i am learning git and github
